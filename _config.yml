@@ -1,6 +1,6 @@
 # main text of home
 name: Maria Ecil
-bio: A Man who travels the world eating noodles
+bio: She, who loves to live outside the norms ; not today.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -53,9 +53,9 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Ecil:
+    name: Maria Ecil
+    bio: She, who loves to live outside the norms ; not today.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
