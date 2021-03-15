@@ -55,7 +55,7 @@ email: myemail@gmail.com
 authors:
   Ecil:
     name: Maria Ecil
-    bio: She, who loves to live outside the norms ; not today.
+    bio: She, who loves to live outside the norms <br> ; <br> not today.
     external-image: false
     picture: assets/images/Me.jpg
     twitter: johndoe
